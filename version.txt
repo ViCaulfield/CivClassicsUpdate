@@ -1,8 +1,10 @@
 Version=0.5.4.0
-Date=26/06/2026
-Download=...
-Archive=...
+Date=27/06/2026
+Download=https://drive.proton.me/whatever
+Archive=https://archive.org/download/CivilizationClassicsCollection
 Changelog=
-• Added Windows 7 Home Basic support.
-• Added x86 launcher.
+• Added update checker.
 • Added official Test of Time scenarios.
+• Improved Windows 7 compatibility.
+• Improved installer architecture detection.
+• Fixed launcher startup on 32-bit Windows.
