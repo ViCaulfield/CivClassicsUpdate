@@ -1,5 +1,5 @@
 Version=0.5.3.0
-Date=27/06/2026
+Date=26/06/2026
 Download=https://drive.proton.me/whatever
 Archive=https://archive.org/download/CivilizationClassicsCollection
 Changelog=
