@@ -1,4 +1,8 @@
-Version=0.5.4.0
-Download=https://google.com
-Archive=https://archive.org/details/CivilizationClassicsCollection
-Changelog=This is a test update.
+Version=0.5.3.0
+Date=26/06/2026
+Download=...
+Archive=...
+Changelog=
+• Added Windows 7 Home Basic support.
+• Added x86 launcher.
+• Added official Test of Time scenarios.
