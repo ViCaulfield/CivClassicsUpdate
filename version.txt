@@ -1,0 +1,7 @@
+Version=0.5.3
+
+Download=https://...
+
+Archive=https://archive.org/details/CivilizationClassicsCollection
+
+Changelog=Added Windows 7 32-bit support and official Test of Time scenario pack.
