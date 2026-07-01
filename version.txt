@@ -1,10 +1,12 @@
-Version=0.5.3.0
-Date=26/06/2026
-Download=https://drive.proton.me/urls/9TXX1Z5DBM#uMJQ5dkFcc6E
+Version=0.6.0.0
+Date=01/07/2026
+Download=https://drive.proton.me/urls/DNVKD3CQGW#s39BQzI8IrWD
 Archive=https://archive.org/download/CivilizationClassicsCollection
 Changelog=
-• Added update checker.
-• Added official Test of Time scenarios.
-• Improved Windows 7 compatibility.
-• Improved installer architecture detection.
-• Fixed launcher startup on 32-bit Windows.
+• Added Mod Profiles for saving and loading mod collections.
+• Added editable mod metadata and preview image support.
+• Added favourites, game filtering and improved Mod Manager organisation.
+• Added Multiplayer interface and Host Game framework.
+• Updated the Enhanced Edition with FoxAhead's latest UIA (v1.22.1).
+• Improved launcher UI, navigation and overall usability.
+• Various bug fixes, compatibility improvements and internal code cleanup.
